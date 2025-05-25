@@ -5,5 +5,5 @@
 🔭 Focus in embedded systems, FPGAs, and low-level software development
 
 🚗 Prev. @ General Motors (Manufacturing Controls Engineer)
-<br/>
+<br/><br/>
 🤔 More info about me @ https://samuelwang05.github.io/
