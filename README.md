@@ -4,8 +4,8 @@ I currently study ECE with a CS minor @ Vanderbilt University. Here's some quick
 🌱 ECE + CS '27 @ Vanderbilt University<br/>
 🔭 Focus in embedded systems, FPGAs, and low-level software development<br/>
 🚗 Prev. @ General Motors (Manufacturing Controls Engineer)<br/>
-🤔 More info about me @ https://samuelwang05.github.io/<br/><br/>
-### Languages<br/>
+🤔 More info about me @ https://samuelwang05.github.io/<br/>
+### Languages
 C++, Python, Verilog, Java<br/><br/>
-### Tools<br/>
+### Tools
 KiCad, LTSpice, Git, Icarus (Verilog)
