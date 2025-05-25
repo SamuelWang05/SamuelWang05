@@ -6,6 +6,6 @@ I currently study ECE with a CS minor @ Vanderbilt University. Here's some quick
 🚗 Prev. @ General Motors (Manufacturing Controls Engineer)<br/>
 🤔 More info about me @ https://samuelwang05.github.io/<br/>
 ### Languages
-C++, Python, Verilog, Java<br/><br/>
+C++, Python, Verilog, Java<br/>
 ### Tools
 KiCad, LTSpice, Git, Icarus (Verilog)
