@@ -5,7 +5,7 @@ I'm currently studying Electrical and Computer Engineering with a Computer Scien
 🔭 Focus in embedded systems, FPGAs, and low-level software development<br/>
 🔬 Research in microelectronics reliability (PCB design, data analysis)<br/>
 🚗 Prev. @ General Motors (Manufacturing Controls Engineer Intern)<br/>
-🤔 More info about me @ https://samuelwang05.github.io/<br/>
+🤔 More info about me @ <a href="samuelwang05.github.io" target="_blank">samuelwang05.github.io</a>/<br/>
 ### Languages
 C++, Python, Verilog, Java<br/>
 ### Tools
