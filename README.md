@@ -9,4 +9,4 @@ I'm currently studying ECE with a CS minor @ Vanderbilt University. Here's some 
 ### Languages
 C++, Python, Verilog, Java<br/>
 ### Tools
-KiCad, LTSpice, STM32 Cube IDE, Icarus (Verilog), Git
+KiCad, LTSpice, STM32 Cube IDE, Icarus (Verilog), Git, Logic Analyzer, Oscilloscope
